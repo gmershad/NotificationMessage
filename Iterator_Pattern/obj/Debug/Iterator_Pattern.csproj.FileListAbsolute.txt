@@ -1,0 +1,6 @@
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.exe.config
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.csprojResolveAssemblyReference.cache
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.exe
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.pdb
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.exe
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\Iterator_Design_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.pdb
